@@ -1,4 +1,5 @@
 // Code your solution in this file!
 function returnFirstTwoDrivers(drivers){
-  return [drivers[0], drivers[1]]
+  const firstTwo = [drivers[0], drivers[1]]
+  return firstTwo
 }
